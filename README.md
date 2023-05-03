@@ -9,3 +9,5 @@ Each exercise is designed to be completed in Vanilla JS, meaning that no externa
 ## Exercises List
 
 * The first exercise, Expanding Cards, is a simple project that involves creating a set of cards that expand when clicked. Click to see [Expanding Cards] (https://matbac85.github.io/FiftyVanillaJSProjects/expandingCards/). 
+
+* The second exercise, Progress Steps, is a visual element used to indicate the progress of a task or process with multiple steps. It consists of a horizontal bar divided into sections, with each section representing a step in the process. Click to see [Progress Steps] (https://matbac85.github.io/FiftyVanillaJSProjects/progressSteps/). 
